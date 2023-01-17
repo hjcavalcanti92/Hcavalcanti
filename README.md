@@ -1,6 +1,10 @@
 # 💫 Olá! Eu sou Henrique Cavalcanti
 
-Sou iniciante nas linguagens de programação HTML, CSS e JavaScript, mas estou animado para aprender e crescer como desenvolvedor. Estou sempre buscando novos desafios e oportunidades para aplicar meus conhecimentos e habilidades. Acredito que a programação é uma ferramenta poderosa para resolver problemas e criar soluções incríveis. Estou ansioso para ver o que posso criar e alcançar com minha jornada de aprendizado."
+Sou iniciante nas linguagens de programação HTML, CSS e JavaScript, 
+mas estou animado para aprender e crescer como desenvolvedor. 
+Estou sempre buscando novos desafios e oportunidades para aplicar meus conhecimentos e habilidades. 
+Acredito que a programação é uma ferramenta poderosa para resolver problemas e criar soluções incríveis. 
+Estou ansioso para ver o que posso criar e alcançar com minha jornada de aprendizado."
 
 
 ## 🌐 Socials:

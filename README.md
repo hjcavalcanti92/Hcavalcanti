@@ -23,5 +23,7 @@ Estou ansioso para ver o que posso criar e alcançar com minha jornada de aprend
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![snake gif](https://github.com/hjcavalcanti92/hjcavalcanti92/blob/output/github-contribution-grid-snake.svg)
+
 
 
